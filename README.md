@@ -2,7 +2,8 @@
 
 ## Neuro42 Projects 📡
 
-neuro42, Inc. is a medtech Company advancing futuristic technologies for screening, diagnosis, and targeted treatment of neurological conditions. Here's some information about the RF analog circuits I developed during my time there!
+neuro42, Inc. is a medtech Company advancing futuristic technologies for screening, diagnosis, and targeted treatment of neurological conditions. Below is a photo of some of the RF analog circuits I developed during my time there. Further below is information of what I did with them.
+
 ![neuro42 PCBs](Untitled design-3.png)
 
 ### Step-Up Voltage Converter
