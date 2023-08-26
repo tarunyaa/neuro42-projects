@@ -3,6 +3,7 @@
 ## Neuro42 Projects 📡
 
 neuro42, Inc. is a medtech Company advancing futuristic technologies for screening, diagnosis, and targeted treatment of neurological conditions. Here's some information about the RF analog circuits I developed during my time there!
+![neuro42 PCBs](Untitled design-3.png)
 
 ### Step-Up Voltage Converter
 *Steps-up a 1.0 V square wave to a 5.0 V square wave.*
