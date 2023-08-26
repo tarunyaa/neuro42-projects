@@ -1,4 +1,4 @@
-|[Home](https://tarunyaa.github.io) 🏠    [Penngineering Projects](https://tarunyaa.github.io/pengineering-projects/) 🦾     [Physics Projects](https://tarunyaa.github.io/physics-projects/) 🔭     [Science Communication Projects](https://tarunyaa.github.io/science-communication-projects/) 🗣  |
+|[Home](https://tarunyaa.github.io) 🏠    [Penngineering Projects](https://tarunyaa.github.io/penngineering-projects/) 🦾     [Physics Projects](https://tarunyaa.github.io/physics-projects/) 🔭     [Science Communication Projects](https://tarunyaa.github.io/science-communication-projects/) 🗣  |
 
 ## Neuro42 Projects 📡
 
