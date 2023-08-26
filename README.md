@@ -1,4 +1,6 @@
-## Neuro42 Projects
+|[Home](https://tarunyaa.github.io) 🏠    [Penngineering Projects](https://tarunyaa.github.io/pengineering-projects/) 🦾     [Physics Projects](https://tarunyaa.github.io/physics-projects/) 🔭     [Science Communication Projects](https://tarunyaa.github.io/science-communication-projects/) 🗣  |
+
+## Neuro42 Projects 📡
 
 neuro42, Inc. is a medtech Company advancing futuristic technologies for screening, diagnosis, and targeted treatment of neurological conditions. Here's some information about the RF analog circuits I developed during my time there!
 
@@ -22,7 +24,7 @@ Developed <span style="color:green">understanding</span> of the circuit schemati
 <span style="color:green">Designed a PCB for it</span>.
 
 ### Final Project
-Two mplifier versions are required: <span style="color:green">power amplifier for the transmission line and low noise amplifier for the receive line</span>. These are meant to replace the currently used amplifiers in the transmit and receive line respectively, as they’re expensive. They both are required to produce a <span style="color:green">gain of around - 18.0 dB and the low noise amplifier is required to have low noise figures of around 0.6 dB</span>. This is difficult as Amplifier ICs for the MRI’s 3 MHz operating frequency are not available on the market due to lack of demand. Most ICs operate at higher frequencies for wirless applications. To circumvent this problem, 
+Two amplifier versions are required: <span style="color:green">power amplifier for the transmission line and low noise amplifier for the receive line</span>. These are meant to replace the currently used amplifiers in the transmit and receive line respectively, as they’re expensive. They both are required to produce a <span style="color:green">gain of around - 18.0 dB and the low noise amplifier is required to have low noise figures of around 0.6 dB</span>. This is difficult as Amplifier ICs for the MRI’s 3 MHz operating frequency are not available on the market due to lack of demand. Most ICs operate at higher frequencies for wirless applications. To circumvent this problem, 
 1. Amplifier <span style="color:green">ICs</span> whose operating frequencies are higher were investigated
 2. Amplifiers were designed <span style="color:green">from scratch</span> 
 
