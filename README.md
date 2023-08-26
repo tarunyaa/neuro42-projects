@@ -29,7 +29,8 @@ Two amplifier versions are required: <span style="color:green">power amplifier f
 2. Amplifiers were designed <span style="color:green">from scratch</span> 
 
 #### Amplifier IC
-* Produces a gain of around - 18.0 dB for low noise figures of around 0.6 dB although the signal is distorted*
+*Produces a gain of around - 18.0 dB for low noise figures of around 0.6 dB although the signal is distorted*
+
 <span style="color:green">Designed a PCB</span> for it. Used online calculator and network analyser for <span style="color:green">impedance matching</span>. Soldered, tested, and debugged the circuit using an oscilloscope and function generator.
 
 #### Differential Cascode Amplifier
