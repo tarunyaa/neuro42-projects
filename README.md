@@ -15,7 +15,7 @@ Researched and simulated different methods of step-up voltage conversion such as
 <span style="color:green">Selected, sourced and soldered appropriate adjustable inductors</span> for the circuit. Successfully <span style="color:green">tested and tuned</span> its behavior using an oscilloscope and function generator. <span style="color:green">Designed a PCB</span> for it. Further tested the behavior of other directional couplers in-lab using an oscilloscope and function generator.
 
 ### Active T/R Switch
-* Control the direction of current flow during transmit and receive mode, to protect sensitive receive components during high-power transmit mode.*
+Control the direction of current flow during transmit and receive mode, to protect sensitive receive components during high-power transmit mode.*
 
 Developed <span style="color:green">understanding</span> of the circuit schematic working. Designed version 1 of PCB for it. Successfully <span style="color:green">soldered, tested and debugged </span>its behavior with regular and low power PIN diodes. <span style="color:green">Designed</span> the final version of PCB for it. Successfully <span style="color:green">soldered, tested and debugged</span> its behavior with high power PIN diodes. Used oscilloscope and function generator.
 
